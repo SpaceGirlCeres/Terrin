@@ -1,0 +1,105 @@
+Stat ranking system
+    None
+    Miniscule
+    Low
+    Below Average
+    Average
+    Above Average
+    High
+    Insane
+    Unlimited
+
+    Unquantifiable
+
+    Height is average ADULT height
+
+Humanoids
+    Human
+    Humans are humans, nothing special
+        Average Health
+        Height ~5’10”
+        Lifespan ~75 years
+        Below Average Top Speed
+        Above Average Intelligence
+        High Endurance
+        Low Mana Control
+        Warm/Cool Climates
+    Most common MuMagims are Special, Forge, Velocity
+    Affinity for theta based Magims
+    Inventive
+
+    Dragonite
+    Dragonites are a dragon human hybrid (DONT ASK)
+        Above Average Health
+        Height ~6’6”
+        Lifespan ~200 years
+        Average Top Speed
+        High Intelligence
+        Insane Endurance
+        Average Mana Control
+        Hot Climates
+    Most common MuMagims are Pyrokinesis, Explosion, Telepathy
+    Affinity for Mu based magims
+    Winged
+
+    Xelenite
+    Xelenites are divided into 2 races Veelnites and Zeelnites
+        Veelnites are more angelic creatures and Zeelnites are more demonic
+        Below Average Health
+        Height 5’8”
+        Lifespan ~777 years
+        Average Top Speed
+        High Intelligence
+        Low Endurance
+        Unlimited Mana Control
+        Hot(Zeel), Warm/Cool(Veel) Climates
+    Most common MuMagims Telekinesis(Veel), Pyrokinesis(Zeel), Telepathy
+    Affinity for Sacrifice(Zeel) and Delta(Veel) based magims
+    Adaptive
+
+    Archtid
+    Archtids are bird like humanoids
+        Low Health
+        Lifespan ~55 years
+        Height ~4’8”
+        High Top Speed
+        Below Average intelligence
+        High Endurance
+        Below Average Mana Control
+        Cold/Freezing Climates
+    Most common MuMagims are Hydrokinesis, Sonic, Special
+    Affinity for Omega Based Magims
+    Winged
+
+    Nebulite (May Change Later)
+    Nebulites are celestial humanoids that are just barely not Eldritch Horrors
+    Nebulites are agender and reproduce purely through magic
+        Unquantifiably Low Health (If You Look At Them Wrong They Will Just Shatter)
+        Lifespan Unquantifiable
+        Height Unquantifiable
+        Unquantifiable Top Speed
+        Unquantifiable Intelligence
+        Unlimited Endurance
+        Unlimited Mana Control
+        Vacuum
+    Most Common MuMagims are Explosion, Sonic, Forge, Kinesis
+    Affinity for Omega based Magims
+    Galactic
+
+    Cindroid
+        (WIP)
+
+
+
+    Gods
+    ideas:
+    Mother: The goddess of the gods
+    XÆroes: The god of time
+    Celeste: The goddess of the cosmos, and creator of the Cosmids
+    The twins Rog and Gorn: the gods of bone and blood respectively
+    Luna: the goddess of mana and Terrin's moon, Lumose
+    Vulthrin: The god of chaos and Terrin's star, Falthore
+    Halla: The goddess of life
+    Therrain: The god of earth
+    Vinx: The god of souls
+    Altix: The Machine God
