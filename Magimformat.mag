@@ -1,0 +1,25 @@
+"Magim Type ExMagim/MixMagim/MuMagim" ("Magim Name", "Mixed Magims If Applicable"){
+    // "Description Start"
+    "Description Goes Here"
+    "Description End" \\
+
+    Base Spells ("Spell Amount (usually between 3 and 5)") {
+        "Spell Name" ("Catalysts"){
+            Catalyst Strength Requirement "Scale 1 to 20"
+            Catalyst Precision Requirement "Scale -20 to -1"
+
+            Mana Control Requirement "High/Med/Low"
+            Mana Power Requirement "High/Med/Low"
+
+            Cast Requirements: [
+                "Requirements Go Here"
+            ]
+
+            // "Spell Description Start"
+            "Spell Description Goes Here"
+            "Spell Description End \\"
+
+            Spell Power Level "Balanced/Powerful/Extreme/INSANE/Planetary/Celestial/Universal/COSMIC"
+        } "repeat for all base spells"
+    }
+}
