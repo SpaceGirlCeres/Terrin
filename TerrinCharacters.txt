@@ -91,11 +91,10 @@ Humanoids
 
 
 
-    Gods
-    ideas:
+    Gods:
     Mother: The goddess of the gods
     XÆroes: The god of time
-    Celeste: The goddess of the cosmos, and creator of the Cosmids
+    Celeste: The goddess of the cosmos, and creator of the Nebulite
     The twins Rog and Gorn: the gods of bone and blood respectively
     Luna: the goddess of mana and Terrin's moon, Lumose
     Vulthrin: The god of chaos and Terrin's star, Falthore
